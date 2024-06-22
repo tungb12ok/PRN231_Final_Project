@@ -1,0 +1,16 @@
+{
+    "header.home": "Home",
+    "header.product":"Product",
+    "header.blog":"Blog",
+    "header.about": "About us",
+    "header.contact": "Contact",
+    "header.signin": "Sign in",
+    "header.cart": "Cart",
+    "banner.title":"PLAY MORE, PAY LESS",
+    "banner.subtitle":"Welcome to Your Ultimate Destination for Gently Used Sporting Excellence - Where the Game Never Ends, and the Savings Are Endless!",
+    "banner.btn":"SHOP NOW",
+    "cart.title":"Your Cart",
+    "cart.empty":"Your cart is empty",
+    "cart.total":"Total",
+    "cart.checkout":"Checkout"
+}
